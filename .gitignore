@@ -1,0 +1,15 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+playwright/.cache/
+playwright/.local-browsers/
+**/playwright/.cache/
+**/playwright/.local-browsers/
+
+# если используешь стандартную папку
+node_modules/
